@@ -123,5 +123,6 @@ ul{
 .endBreedCard{
     justify-content: space-between;
     display: flex;
+    
     padding: 10px;
 }
