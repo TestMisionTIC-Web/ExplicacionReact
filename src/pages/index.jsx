@@ -9,6 +9,10 @@ function Index(){
                 <ul className="breedCardContainer">
                     <CardRazasPerros nombreRaza = "Border Collie" imagen = {boderCollie}/>
                     <CardRazasPerros nombreRaza = "Rhodesian" imagen = {rhodesian}/>                  
+                    <CardRazasPerros nombreRaza = "Rhodesian" imagen = {rhodesian}/>                  
+                    <CardRazasPerros nombreRaza = "Rhodesian" imagen = {rhodesian}/>                  
+                    <CardRazasPerros nombreRaza = "Rhodesian" imagen = {rhodesian}/>                  
+                    <CardRazasPerros nombreRaza = "Rhodesian" imagen = {rhodesian}/>                   
                 </ul>
         </section>
     );
